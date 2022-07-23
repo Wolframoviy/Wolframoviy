@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Wolframoviy
-- 👀 I’m шизофреник
-- 🌱 I’m currently learning шизофрению
-- 💞️ I’m looking to collaborate on шизой
-- 📫 How to reach me через шизу
+- 👀 I’m young developer
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: discord
 
 <!---
 Wolframoviy/Wolframoviy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
