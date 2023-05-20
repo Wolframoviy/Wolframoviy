@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: discord
 - 👀 My repositories are cringe
+- GitHub, thanks for the sanctions.(no)
 
 <!---
 Wolframoviy/Wolframoviy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
