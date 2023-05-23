@@ -2,7 +2,7 @@
 #### I'm python programmer.
 I do programming when I have free time. While I study at school and can not give enough time as for work.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Python / Flask / JS / HTML / CSS
 
 - 🔭 I’m currently working on regionAK (news) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolframoviy)](https://github.com/anuraghazra/github-readme-stats)
